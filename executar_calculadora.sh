@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 calculadora.py
+python3 calculadora.py.ipynb
